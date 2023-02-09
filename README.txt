@@ -1,2 +1,2 @@
 
-![Live Link](https://reyhanab.github.io/Portfolio)
+Portfolio: https://reyhanab.github.io/Portfolio
